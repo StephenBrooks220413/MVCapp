@@ -1,0 +1,3 @@
+DOCKER instructions
+docker push 
+stephenbrooks714/web_app
